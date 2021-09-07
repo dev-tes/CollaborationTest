@@ -1,5 +1,4 @@
 # CollaborationTest
-just anther repository
 
 To create a new branch
 Go to your new repository hello-world.
